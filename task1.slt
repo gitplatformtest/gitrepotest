@@ -18,7 +18,7 @@
             },
             "recipients": null
         },
-        "pipeline_path": "Mapper Tab Pipeline",
+        "pipeline_path": null,
         "snaplex_path": "APIMPlex"
     },
     "schedule": {},

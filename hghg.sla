@@ -1,0 +1,44 @@
+{
+    "class_id": "com-snaplogic-snaps-anaplan-anaplanaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "automation"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "hghg"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "Hostname": {
+                "value": "https://api.anaplan.com"
+            },
+            "externalCertificateContents": {
+                "fp": "784a35a7d774c15fed2c19acfbacf0803952c866c106c7c1d7e70a06f0418532",
+                "key": "account-cloud-managed-5806521b242e3f794b90c16c-2016-10-18T16:49:09-913501",
+                "sym_iv": "tMtZurAYW2uYzDmWGBFDDA==",
+                "sym_key": "fJ7RS4NstKJKJ6CZlXFNomXOhQDL5MwL2IO1jIe23GqhS4TM2kPA2reDjWurlLWUnxsEZpcxP1NdxioAExLMig5UAqNqPC+eAAHlrG4u9t3L9n+2BBkLx8ZOSeF17OYn3sJMDYlaoCYA7pq1aWlzsEIenWPx7lvdBEw1e/UkQEe5TzAO63Ahqb9vsGaJq/5T4jFU44jBF+tQb7zxL1DSp77g3Ac8PH05Ov+Qas1Vl4gQST2SfHliSvdGATNzttCR8aIXJENwalmSRIo0X6TfpMKy8IpaOozPcvUUo+UieQgfxf4dTg7t06HtqyoxbXArNsa+hb5thM9eqhZ1lnNjEA==",
+                "value": "6et79/qc3RG+dkdV7rI8hg=="
+            },
+            "externalCertificateFile": {
+                "expression": false,
+                "value": null
+            },
+            "externalPrivateKey": {
+                "fp": "784a35a7d774c15fed2c19acfbacf0803952c866c106c7c1d7e70a06f0418532",
+                "key": "account-cloud-managed-5806521b242e3f794b90c16c-2016-10-18T16:49:09-913501",
+                "sym_iv": "K9kW6eEvJXQEz85V+RMBYw==",
+                "sym_key": "IAy38K1YmW3KeORR1dzcOzuDe/l5771KAkN+iyJ34iEZHd1p+lcaHMR8PSTmi7z9JU+fTVPm9ZksFreZHHN568BdLPq5VO5yYzwxCiv04pNQdGRRcqIGxutjtpwymubLk1uyjurMl4bprMoSxGwzdEch1aLiL9ovyaKNvFLzD4AgyxHP++x+aPvycLvrS/LmtlA1lHpQxEoMeZ7SVbsNPa17dlbQnrGS6o/w6z03AhGcxF/uKYX6WzUoYbImyhPgic/QPk0OX8SATaxKUrokdzBRTUEYWXI9NT/5R6trRz3PQNn7lLQLZvWozXoe8Bvmu4+hqg4WNfTyASHo4sTdnA==",
+                "value": "89VYoNv00THd0h8BPJwBZg=="
+            },
+            "username": {
+                "value": null
+            }
+        },
+        "view_serial": 100
+    }
+}

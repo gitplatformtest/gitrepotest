@@ -1,0 +1,47 @@
+{
+    "class_id": "com-snaplogic-snaps-azureservicebus-asbaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "automation"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "sgff"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "accessKey": {
+                "expression": false,
+                "fp": "784a35a7d774c15fed2c19acfbacf0803952c866c106c7c1d7e70a06f0418532",
+                "key": "account-cloud-managed-5806521b242e3f794b90c16c-2016-10-18T16:49:09-913501",
+                "sym_iv": "IdPhva7lj9vH2O/hTGQUew==",
+                "sym_key": "AXCmBHt/ml1URJ7QodlFA2CuGdD+i8izAr6DqKZddiUK+cGkaSBKykUdvYayy5P8qLm/93FPmxPjEaAUL/o0LmkGOBhp4SsraKs+M0Wfl447UnRpAEX2I1N/jXSij/wn9hO/DDxObX+VCjQJYr35MgiXEAQQJEdnoc9NkoQRdVjK8DahgIkjUvLky/saKjGiqQyhp2MRcFdpoWWVO7YpE9AJUFMaZzSCNq0zv0DIdUQJG/w596tfbxHF1Sps4q3ac6mmHLhCQIuKe0AX2lCeEBEfpWOb4hJKyr/YofolFsvD45ZzS6y3GLBsZPvhLmtf7sC33CVH4+lu+UfqvoaDpg==",
+                "value": "/2mANDYo/qmnYCeQ2o5NJg=="
+            },
+            "accessKeyName": {
+                "expression": false,
+                "value": "RootManageSharedAccessKey"
+            },
+            "connStringSource": {
+                "value": "User Provided"
+            },
+            "connectionString": {
+                "expression": false,
+                "fp": "784a35a7d774c15fed2c19acfbacf0803952c866c106c7c1d7e70a06f0418532",
+                "key": "account-cloud-managed-5806521b242e3f794b90c16c-2016-10-18T16:49:09-913501",
+                "sym_iv": "AU0XflzL4WHgYngIeMza+Q==",
+                "sym_key": "nsgyv168WutAery3j21uOob/pfdMlJyfIOGiSmTHjk+HZZDCZPq9LmGkMmp5tIUCizWW0svVRKBosN7MqEkAUVbILYNOXhCN+n+07fdeU8R7+lKg+dvJcv7RHoD/G7lRGsMk5WE0Jx0An4GUebTbZ39jVXXNcAwALxMa+NiT/rZOev4daz7pkAersd4ksnbHLoxX95lmdEQiKfyULqxkRW+LQfv/AE0FJAqBZMojcxIELr9A80yMGERqcwLqKyf64iFcptHoiIdLyADK+eaBvmrZNHkLHvZTaVJxFagXwf1fcOYn3tcLC1woagKat5zBdx8YPjVE5/+UPSJNzNQovA==",
+                "value": "k+TAGyH8bnk2iu0iApvs5A=="
+            },
+            "namespaceName": {
+                "expression": false,
+                "value": null
+            }
+        },
+        "view_serial": 100
+    }
+}

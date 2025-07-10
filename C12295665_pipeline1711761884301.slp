@@ -1,4 +1,7 @@
 {
+    "ai_map": {
+        "footprint": "H4sIAAAAAAAAA8srzckBAE/8yyUEAAAA"
+    },
     "class_id": "com-snaplogic-pipeline",
     "class_version": 9,
     "link_map": {
@@ -17,7 +20,7 @@
         },
         "info": {
             "author": {
-                "value": "sbuddi+basic1@snaplogic.com"
+                "value": "dbnallathambi@snaplogic.com"
             },
             "label": {},
             "notes": {
@@ -52,7 +55,7 @@
         "detail_map": {
             "11111111-1111-1111-1111-000000000000": {
                 "error": {},
-                "grid_x_int": 2,
+                "grid_x_int": 1,
                 "grid_y_int": 1,
                 "input": {},
                 "output": {},
@@ -61,7 +64,7 @@
             },
             "11111111-1111-1111-1111-000000000001": {
                 "error": {},
-                "grid_x_int": 3,
+                "grid_x_int": 2,
                 "grid_y_int": 1,
                 "input": {},
                 "output": {},
@@ -94,12 +97,13 @@
                 },
                 "info": {
                     "label": {
-                        "value": "CSV Generator"
+                        "value": "CSV s"
                     },
                     "notes": {
                         "value": null
                     }
                 },
+                "input": {},
                 "output": {
                     "output0": {
                         "label": {
@@ -113,6 +117,9 @@
                 "settings": {
                     "editable_content": {
                         "value": "name,age,city\ngaian,7,Hyd\nSolutions,7,Vskp"
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
                     }
                 },
                 "view_serial": 100

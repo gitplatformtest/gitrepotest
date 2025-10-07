@@ -1,4 +1,7 @@
 {
+    "ai_map": {
+        "footprint": "H4sIAAAAAAAAA8srzckBAE/8yyUEAAAA"
+    },
     "class_id": "com-snaplogic-pipeline",
     "class_version": 9,
     "link_map": {
@@ -17,7 +20,7 @@
         },
         "info": {
             "author": {
-                "value": "sbuddi+basic1@snaplogic.com"
+                "value": "dbnallathambi@snaplogic.com"
             },
             "label": {},
             "notes": {
@@ -34,7 +37,7 @@
         "output": {
             "11111111-1111-1111-1111-000000000001_output0": {
                 "label": {
-                    "value": "Pipeline Execute - output0"
+                    "value": "Pipeline Execdfgute - output0"
                 },
                 "view_type": {
                     "value": "document"
@@ -52,7 +55,7 @@
         "detail_map": {
             "11111111-1111-1111-1111-000000000000": {
                 "error": {},
-                "grid_x_int": 2,
+                "grid_x_int": 1,
                 "grid_y_int": 1,
                 "input": {},
                 "output": {},
@@ -61,7 +64,7 @@
             },
             "11111111-1111-1111-1111-000000000001": {
                 "error": {},
-                "grid_x_int": 3,
+                "grid_x_int": 2,
                 "grid_y_int": 1,
                 "input": {},
                 "output": {},
@@ -138,7 +141,7 @@
                 },
                 "info": {
                     "label": {
-                        "value": "Pipeline Execute"
+                        "value": "Pipeline Execdfgute"
                     },
                     "notes": {
                         "value": null
@@ -165,9 +168,16 @@
                     }
                 },
                 "settings": {
+                    "batchSize": {
+                        "expression": false,
+                        "value": 1
+                    },
                     "execLabel": {
                         "expression": true,
                         "value": "'test'"
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
                     },
                     "loopDocument": {
                         "expression": true
@@ -180,7 +190,16 @@
                         "value": "ChildPipeline"
                     },
                     "poolSize": {
+                        "expression": false,
                         "value": 1
+                    },
+                    "retryInterval": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "retryLimit": {
+                        "expression": false,
+                        "value": null
                     },
                     "reuse": {
                         "value": false
@@ -188,6 +207,13 @@
                     "snaplex": {
                         "expression": false,
                         "value": "DEV Groundplex"
+                    },
+                    "snaplexGovernor": {
+                        "value": "SNAPLEX_WITH_PATH"
+                    },
+                    "timeout": {
+                        "expression": false,
+                        "value": null
                     }
                 },
                 "view_serial": 100
